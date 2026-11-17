@@ -1,0 +1,10 @@
+{
+  "schema": "4th-season.public-article-request/v1",
+  "operation": "CONTENT_ADD",
+  "article_id": "REREAD-MSB-SEONGSIM-LOWER-16",
+  "slug": "myeongsimbogam-seongsim-lower-16",
+  "parent_map": "learn/reread/read/myeongsimbogam/seongsim-lower",
+  "cover": "assets/reread/myeongsimbogam-seongsim-lower-16-cover.webp",
+  "marker": "REREAD_MSB_SEONGSIM_LOWER_016_V1_20261117",
+  "job_id": "REREAD-MSB-SEONGSIM-LOWER-016-V1-20261117-001"
+}
